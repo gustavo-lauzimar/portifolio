@@ -1,0 +1,35 @@
+.apresentation {
+    margin: auto;
+    width: 700px;
+    
+    padding: 30px;
+
+    background-color: var(--background-element-color);
+    border-radius: 10% 12%;
+
+    margin-bottom: 50px;
+}
+
+.apresentation .my_image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    border-radius: 100%;
+    width: 200px;
+
+    margin-bottom: 30px;
+}
+
+.apresentation h1 {
+    background-color: var(--background-element-dark-color);
+    border-radius: 50%;
+
+    text-align: center;
+
+    margin-bottom: 20px;
+}
+
+.apresentation p {
+    font-size: 20px;
+}

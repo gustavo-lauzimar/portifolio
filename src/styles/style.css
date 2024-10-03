@@ -1,15 +1,15 @@
-* {
-    padding: 0px;
-    margin: 0px;
-    border-radius: 0%;
+:root {
+    --background-color: #dedede;
+    --background-element-color: #cecece;
+    --background-element-dark-color: #aeaeae;
 }
 
-/* apresentation class*/
+body {
 
-.apresentation {
-    size: 30vw;
+    background-color: var(--background-color);
 }
 
-.apresentation img {
-    size: 80%;
+.content {
+    padding: 20px;
+    padding-top: 40px;
 }

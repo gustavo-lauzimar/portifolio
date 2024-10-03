@@ -1,0 +1,15 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    border-radius: 0%;
+}
+
+/* apresentation class*/
+
+.apresentation {
+    size: 30vw;
+}
+
+.apresentation img {
+    size: 80%;
+}
