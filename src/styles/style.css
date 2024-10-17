@@ -1,7 +1,12 @@
 :root {
-    --background-color: #dedede;
-    --background-element-color: #cecece;
-    --background-element-dark-color: #aeaeae;
+    --font-dark-color: #242125;
+    --font-light-color: #adadad;
+
+    --border-color: #798e8f;
+
+    --background-color: #242125;
+    --background-element-color: #5f5b64;
+    --background-element-dark-color: #413a42;
 }
 
 body {

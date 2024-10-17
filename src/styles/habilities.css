@@ -1,0 +1,63 @@
+.habilities {
+    margin: 20px;
+}
+
+.habilities h2 {
+    margin-bottom: 10px;
+    font-size: 50px;
+
+    color: var(--font-light-color);
+}
+
+.habilities p {
+    font-size: 23px;
+
+    color: var(--font-light-color);
+}
+
+/* hability panels */
+.hability {
+    margin: 10px;
+    padding: 20px;
+
+    border: 2px solid var(--border-color);
+    border-radius: 10px;
+
+    background-color: var(--background-element-color);
+}
+
+.hability h3 {
+    font-size: 40px;
+}
+
+.habilities_panels {
+    margin-top: 40px;
+}
+
+.hability_panel {
+
+    display: flex;
+}
+
+.hability_panel .left_panel {
+    width: 90%;
+}
+
+.hability_panel .left_panel p {
+    font-size: 20px;
+
+    height: 100px;
+
+    margin-top: 53px;
+
+    color: var(--font-dark-color);
+}
+
+.hability_panel .right_panel {
+    width: 10%;
+}
+
+.hability_panel .right_panel img {
+    width: 150px;
+    margin-left: auto;
+}
